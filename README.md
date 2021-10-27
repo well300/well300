@@ -1,23 +1,26 @@
-## Hello! World 
+## Hello! World...?
  <div>
   <a href="https://github.com/well300">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=well300&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well300&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-297a700a577c125045410d40eb4f7259">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://qph.fs.quoracdn.net/main-qimg-297a700a577c125045410d40eb4f7259">
 </div>
  
   ##
  
 <div> 
-  <a href="https://youtu.be/yHRfo1Vc2no" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ig_dragshooter/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- 
-
 </div>
+ 
+  ##
+ 
+<div> 
+ 
+<p align="center">
+  <a href="https://open.spotify.com/playlist/654rmZwiJjQtKOzjQtfksO?si=PSnCZq4tQDi7DTWle5kZwg&utm_source=copy-link&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+ 
