@@ -5,7 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well300&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-297a700a577c125045410d40eb4f7259">
+</div>
+ 
   ##
  
 <div> 
