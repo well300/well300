@@ -1,32 +1,21 @@
+## Hello! World 
+ <div>
+  <a href="https://github.com/well300">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=well300&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well300&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
 
+  ##
+ 
+<div> 
+  <a href="https://youtu.be/yHRfo1Vc2no" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ig_dragshooter/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e1/95/f1/e195f1ce20bebb49b951b5518c02ebc5.gif" width="300"></br>
-</p>
-<h1 align="center"><br><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">W E L L...I'm here🦋!</h1>
+ 
 
----                   
-- 🌱 I’m currently learning **nothing**.
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-- 👀 I'm currently focusing on **C# & other lang.s too**.
+ 
 
-- 🦋 Ummm...
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/well300"><img src="https://github-readme-stats.vercel.app/api?username=well300&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/well300"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=well300&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=well300&theme=onedark" /></a>
-</p>
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=well300" />
-</p>
-  
+</div>
