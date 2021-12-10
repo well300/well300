@@ -26,8 +26,11 @@
 ------
  
 ### Github Stats 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=well300&layout=compact)](https://github.com/well300/github-readme-stats)
+   
 ![github card](https://github-readme-stats.vercel.app/api?username=well300&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=well300&theme=monokai)
--
+    
+
+
