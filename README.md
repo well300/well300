@@ -1,6 +1,6 @@
 <h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="https://www.icegif.com/wp-content/uploads/icegif-6858.gif" style="border-radius:5;" width="40px" alt=""><br></h1>
 <p align="center">
-<img align="center" height="auto" src="https://64.media.tumblr.com/7e5d8b9554f85ebd96120f8fa52c4ded/fd2c1865731bd9d7-e4/s540x810/e38acc8dfb7025d8b13c8996c017fa1ed449ba7c.gifv"/></a>
+<img align="center" height="auto" src="https://i.imgur.com/fMesbQi.gif"/></a>
 
 <p align="center">
 
