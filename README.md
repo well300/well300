@@ -1,6 +1,6 @@
-<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="https://www.icegif.com/wp-content/uploads/icegif-6858.gif" style="border-radius:5;" width="40px" alt=""><br></h1>
+<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="https://c.tenor.com/3vRofxpUb9UAAAAC/bleach-urahara.gif" style="border-radius:5;" width="40px" alt="well"><br></h1>
 <p align="center">
-<img align="center" height="auto" src="https://i.imgur.com/fMesbQi.gif",'https://github.com/well300'/></a>
+<img align="center" height="auto" src="https://media0.giphy.com/media/12oFq3MHMO3QL6/giphy.gif",'https://github.com/well300' width="600px"/></a>
 
 <p align="center">
 
