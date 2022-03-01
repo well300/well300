@@ -1,6 +1,6 @@
-<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="https://c.tenor.com/3vRofxpUb9UAAAAC/bleach-urahara.gif" style="border-radius:5;" width="40px" alt="well"><br></h1>
+<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="https://pa1.narvii.com/7596/a8027337a8e77bc86704fbd7769675b5293033cfr1-500-364_hq.gif" style="border-radius:5;" width="40px" alt="well"><br></h1>
 <p align="center">
-<img align="center" height="auto" src="https://media0.giphy.com/media/12oFq3MHMO3QL6/giphy.gif",'https://github.com/well300' width="600px"/></a>
+<img align="center" height="auto" src="https://i.imgur.com/ToncPh9.gif",'https://github.com/well300' width="600px"/></a>
 
 <p align="center">
 
