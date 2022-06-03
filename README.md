@@ -1,4 +1,4 @@
-<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="https://pa1.narvii.com/7596/a8027337a8e77bc86704fbd7769675b5293033cfr1-500-364_hq.gif" style="border-radius:5;" width="40px" alt="well"><br></h1>
+<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="null" style="border-radius:5;" width="40px" alt="well"><br></h1>
 <p align="center">
 <img align="center" height="auto" src="https://i.imgur.com/ToncPh9.gif",'https://github.com/well300' width="600px"/></a>
 
