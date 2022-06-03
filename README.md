@@ -1,4 +1,4 @@
-<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="null" style="border-radius:5;" width="40px" alt="well"><br></h1>
+<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! 
 <p align="center">
 <img align="center" height="auto" src="https://i.imgur.com/ToncPh9.gif",'https://github.com/well300' width="600px"/></a>
 
