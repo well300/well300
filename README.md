@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm well300</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-<img src="https://i.gifer.com/Sg9k.gif" width="100%" alt="Seriously "/></p>
+<img src="https://i.gifer.com/Sg9k.gif" width="50%" alt="Seriously">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=well300&label=Profile%20views&color=0e75b6&style=flat" alt="well300" /> </p>
 
