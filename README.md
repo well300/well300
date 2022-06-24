@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **peoples who is interested in learning new things**
 
-- 👨‍💻 All of my projects are available at **Coming soon...**
+- 👨‍💻 All of my projects are available at (**Coming soon...**)
 
 - 📝 I regularly write articles on [Motivation](Motivation)
 
