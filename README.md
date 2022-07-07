@@ -9,22 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=well300" alt="well300" /></a> </p>
 
-- 🔭 I’m currently working on **Game developing.**
-
-- 🌱 I’m currently learning **C# only**
-
-- 👯 I’m looking to collaborate on **Whatsapp Automation**
-
-- 🤝 I’m looking for help with **peoples who is interested in learning new things**
-
-- 👨‍💻 All of my projects are available at (**Coming soon...**)
-
-- 📝 I regularly write articles on [Motivation](Motivation)
-
-- 💬 Ask me about **Anything on Instagram**
-
-<!--📄 Know about my experiences [well](well)-->
-- ⚡ Fun fact **I am Fresher..!**
+```js
+let myInfo = {
+  name: 'Talha', //aka well300
+  age : 19, 
+  from : 'India',
+  developer : 'Front-End'
+}
+let favoriteAnime = ['One piece', 'Naruto']
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
