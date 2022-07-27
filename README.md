@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/starbinna"><img src="https://64.media.tumblr.com/a11a15c1e5d87c43c47d94e6ebf9c54f/23f254594f2a1072-b6/s500x750/91d14d889b9a5a2950170c945c3886140fe1026b.gifv"></a>
+  <a href="https://github.com/well300"><img src="https://64.media.tumblr.com/a11a15c1e5d87c43c47d94e6ebf9c54f/23f254594f2a1072-b6/s500x750/91d14d889b9a5a2950170c945c3886140fe1026b.gifv"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=well300&label=Profile%20views&color=0e75b6&style=flat" alt="well300" /> </p>
