@@ -3,7 +3,7 @@
 </div>  
   
  
-### <div align="center">I'm Talha aka well300, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center"> &rarrtl; I'm Talha aka well300, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Web Development](https://well300.github.io/well300-portfolio/)  
