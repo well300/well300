@@ -1,5 +1,9 @@
+<div alight="center">
+<img src"https://media0.giphy.com/media/xTg8B31DCfCWKEThG8/giphy.gif?cid=ecf05e472pfbrfvuh7wbr8yff0zwm5xosilg7qoqrvbbba8k&rid=giphy.gif&ct=g" align="oops" style="width: 50%" />
+</div>
+
 <div align="center">
-<img src="https://code.visualstudio.com/assets/docs/editor/codebasics/expandselection.gif" align="center" style="width: 100%" />
+<img src="https://code.visualstudio.com/assets/docs/editor/codebasics/expandselection.gif" align="Hi There" style="width: 100%" />
 </div>  
   
  
