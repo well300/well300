@@ -4,7 +4,7 @@
 
 </div>
 <a href="https://talha-300.vercel.app/">
-  <img align="right" width="150" src="https://www.gifcen.com/wp-content/uploads/2022/04/jujutsu-kaisen-gif-9.gif">
+  <img align="right" width="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 </a>
 
 
