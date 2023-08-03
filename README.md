@@ -42,7 +42,7 @@ As a BCA undergraduate, I wield the arcane knowledge of web development and UI/U
 </p>
 
 
-## **🟪Profile Counter**
+## **🟪Profile View Counter**
 <a href="https://www.instagram.com/ig_well300/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@well300?theme=rule34"></a>
 <a href="https://github.com/well300"><img align="left" width="100" src="https://airnfts.s3.amazonaws.com/nft-images/20210523/Nyan_Cat_001_1621787176842.gif"></a>
 
