@@ -1,63 +1,60 @@
-<h2 align="left">Talha, the well300 wizard, extends greetings! 👋🧙‍♂️</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=well300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=well300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+	
+![](https://typograssy.deno.dev/api?text=ウェル300は秘密の宝です。!&l0=none&l1=8a2be2&l2=9370db&l3=ba55d3&l4=d8bfd8&bg=none&frame=none&speed=100&comment=)
+
 </div>
+<a href="https://talha-300.vercel.app/">
+  <img align="right" width="150" src="https://www.gifcen.com/wp-content/uploads/2022/04/jujutsu-kaisen-gif-9.gif">
+</a>
 
-###
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/5089662133349566152/909B040670AD0E13B341A9BD52595C3692336BBB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+### **Well!! I'm Talha 🔮**
 
-###
+**`Enchanter of the Web and Weaver of Graphics`** 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
+## **☕ About me**
+<a href="https://github.com/well300"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
+Greetings, I am Talha, the wandering mage known as well300. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
+<br><br>
 
-###
+## **💻 Experience**
+<a href="https://github.com/well300">
+<img align="right" width="100" src="https://i.giphy.com/media/LLsUNd14gwSkSLYTcR/giphy.webp"></a>
+As a BCA undergraduate, I wield the arcane knowledge of web development and UI/UX design. Seeking mystical internships and job opportunities to channel my skills into crafting captivating digital experiences. 🌐💻✨
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC9tcF6amcqULj4EtEPPuJzQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Coding with Well300&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/ig_well300/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ig_well300&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohd-talha-uddin-a8863b247/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mohd Talha Uddin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/well300_FOREVER" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=well300_FOREVER&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
 
-###
+## **📊 Github Stats**
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=well300&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well300&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
+</p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/well300/well300/output/snake.svg" alt="Snake animation" />
 
-###
+## **🎧 Spotify**
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
+</p>
+
+## **🟪Profile Counter**
+<a href="https://www.instagram.com/ig_well300/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@well300?theme=rule34"></a>
+<a href="https://github.com/well300"><img align="left" width="100" src="https://airnfts.s3.amazonaws.com/nft-images/20210523/Nyan_Cat_001_1621787176842.gif"></a>
+
+```yaml
+Oi, folks checkin' out me profile, eh?
+Heh, another one of ya caught by me charm, aye?
+Welcome to me den, enjoy yer stay! *clenches fist*
+'Tis a pleasure to have ye wanderin' 'round me world!
+```
+<!-- <br><br><br><br> -->
+## **📫 Contact**
+<a href="https://github.com/well300"><img align="right" width="100"
+src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-haunter-1356099.gif" /></a>
+**Please Contact me on WhatsApp for a quick response:** [well300](https://api.whatsapp.com/send/?phone=917842346461&text=Hello%20Well300!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
+
+**You can also email me here:** talhamohd300@gmail.com
+
+<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=well300">-->
+[![](https://img.shields.io/github/followers/well300?label=Followers&style=social&color=purple)](https://github.com/well300)
+[![Instagram](https://img.shields.io/badge/Instagram-ig_well300-purple?logo=instagram&logoColor=white)](https://www.instagram.com/ig_well300/)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:talhamohd300@gmail.com)
