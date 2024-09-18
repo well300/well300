@@ -1,6 +1,6 @@
 <div align="center">
 	
-![](https://typograssy.deno.dev/api?text=ウェル300は秘密の宝です。!&l0=none&l1=69ff6e&l2=9370db&l3=ba55d3&l4=d8bfd8&bg=none&frame=none&speed=100&comment=)
+![](https://typograssy.deno.dev/api?text=ウェル300は秘密の宝です。!&l0=none&l1=69ff6e&l2=69ff6e&l3=69ff6e&l4=69ff6e&bg=none&frame=none&speed=100&comment=)
 
 </div>
 <a href="https://talha-300.vercel.app/">
